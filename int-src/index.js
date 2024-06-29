@@ -1,5 +1,5 @@
 // SCSS
-import "./scss/app.scss"
+import './scss/app.scss'
 
 // JS
-import "./js/app.js"
+import './js/app.js'
